@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/BasicFaceFilter.unity
+    guid: df410a2364b67f145bc96124a3b0bf51
+  - enabled: 1
     path: Assets/Scenes/AR template Scene.unity
     guid: 15274183ad0d3394c88930256038e523
   m_configObjects:
